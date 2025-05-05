@@ -1,12 +1,13 @@
 Como executar localmente:
 
-1. Clone o repositorio 
+1 -  Clone o repositorio 
 
-  cd exercicios-javascript
+      cd exercicios-javascript
 
-2. Instale o prompt-sync
+2  -  Instale o prompt-sync
 
-  npm install prompt-sync
+      npm install prompt-sync
 
-3. Execute um exercício
-  node ex1.js
+3 -  Execute um exercício
+      node ex1.js
+  
